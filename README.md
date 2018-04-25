@@ -76,9 +76,9 @@ boa prática adotada para gerar o pacote de deploy do projeto
 
 * [Introduction to the Build Lifecycle](http://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html)
 
-* [maven em 5 minutos](http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+* [maven in five minutes](http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
 
-* [iniciando com maven](http://maven.apache.org/guides/getting-started/index.html)
+* [maven getting started](http://maven.apache.org/guides/getting-started/index.html)
 
 * [Introduction to Archetypes](http://maven.apache.org/guides/introduction/introduction-to-archetypes.html)
 
